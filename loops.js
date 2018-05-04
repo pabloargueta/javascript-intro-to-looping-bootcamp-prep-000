@@ -2,7 +2,7 @@ function forLoop(array){
   var i = 0;
   for (i; i < 25; i++){
     if (i === 1){
-      array.push(`I am ${i} strange loop`);
+      array.push(`"I am ${i} strange loop"`);
     }
     else {
       array.push(`"I am ${i} strange loops"`);
