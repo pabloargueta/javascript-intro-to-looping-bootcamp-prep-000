@@ -9,4 +9,6 @@ function forLoop(array){
   }
 }
 
-function while
+function whileLoop(n) {
+  
+}
